@@ -19,18 +19,18 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/YangLongWang/QR-code](https://github.com/YangLongWang/QR-code)
+- Live Site URL: [https://yanglongwang.github.io/QR-code/](https://yanglongwang.github.io/QR-code/)
 
 ## My process
 
 ### Built with
 
-- HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Github - [Longyang Wang](https://github.com/YangLongWang)
 - Frontend Mentor - [@YangLongWang](https://www.frontendmentor.io/profile/YangLongWang)
 
